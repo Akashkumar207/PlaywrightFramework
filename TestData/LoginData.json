@@ -1,0 +1,26 @@
+[
+  {
+
+    
+    "username": "admin",
+    "password": "admin",
+    "homepaheTitle":"Administrator - Home - vtiger CRM 5 - Commercial Open Source CRM",
+    "label":"1",
+    "status":"valid"
+
+  },
+  {
+    
+    "username": "salesuser",
+    "password": "sales123",
+      "label":"2",
+      "status":"invalid"
+  },
+  {
+    
+    "username": "manager",
+    "password": "manager123",
+      "label":"3",
+      "status":"invalid"
+  }
+]
